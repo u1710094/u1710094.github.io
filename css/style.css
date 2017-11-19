@@ -1,0 +1,14 @@
+body{
+		background-image: url(../img/129.jpeg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}	
+	.avatar{
+		border-radius: 50%;
+	}
+	.details{
+		font-size: 100%;
+		width: 40%;
+		margin: auto;
+	}
